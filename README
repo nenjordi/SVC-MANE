@@ -1,0 +1,3 @@
+This repos contains the RTSP Proxy developed by Eduardo Martínez Graciá (University of Murcia, Spain) and modified by Jordi Ortiz (University of Murcia, Spain) which allows the streaming of SVC streams and offers the basics for stream adaptation based on NALU throw.
+
+This software is offered as opensource to the community, although references to authors would be very appreciated.
